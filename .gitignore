@@ -1,0 +1,16 @@
+# Não publicar: chaves e senhas
+keystore.properties
+*.jks
+*.keystore
+local.properties
+
+# Arquivos gerados
+.gradle/
+.kotlin/
+build/
+app/build/
+*.aab
+*.apk
+
+# Instruções internas do assistente
+CLAUDE.md

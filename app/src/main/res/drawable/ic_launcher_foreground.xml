@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Frente do ícone: a pílula da ilha com a capa, o furo da câmera e as barrinhas -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- pílula -->
+    <path android:fillColor="#FF000000"
+        android:pathData="M35,43h38a11,11 0,0 1,0 22h-38a11,11 0,0 1,0 -22z" />
+    <!-- capa do álbum -->
+    <path android:fillColor="#FFFF8A3D"
+        android:pathData="M33,49h8a2,2 0,0 1,2 2v6a2,2 0,0 1,-2 2h-8a2,2 0,0 1,-2 -2v-6a2,2 0,0 1,2 -2z" />
+    <!-- furo da câmera -->
+    <path android:fillColor="#FF2A2A36"
+        android:pathData="M54,54m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0" />
+    <path android:fillColor="#FF0B0B12"
+        android:pathData="M54,54m-2.6,0a2.6,2.6 0,1 1,5.2 0a2.6,2.6 0,1 1,-5.2 0" />
+    <!-- barrinhas -->
+    <path android:fillColor="#FFFFFFFF"
+        android:pathData="M67,51.5h2v5h-2z M71,48.5h2v11h-2z M75,50.5h2v7h-2z" />
+</vector>
